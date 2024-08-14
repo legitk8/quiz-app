@@ -1,0 +1,12 @@
+[submodule "service-registry"]
+	path = service-registry
+	url = git@github.com:legitk8/service-registry.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:legitk8/api-gateway.git
+[submodule "question-service"]
+	path = question-service
+	url = https://github.com/legitk8/question-service.git
+[submodule "quiz-service"]
+	path = quiz-service
+	url = git@github.com:legitk8/quiz-service.git
